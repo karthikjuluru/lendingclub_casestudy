@@ -22,9 +22,11 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- numpy - version 1.26.4
+- pandas - version 2.2.2
+- matplotlib - version 3.8.4
+- seaborn - version 0.13.2
+- plotly - version 5.22.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
@@ -48,7 +50,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@karthikjuluru] - feel free to contact me!
+Created by [@karthikjuluru] [@sharma-kashish] - feel free to contact me!
 
 
 <!-- Optional -->
