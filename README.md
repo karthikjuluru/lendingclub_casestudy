@@ -1,5 +1,5 @@
-# Project Name
-> This is a lending club case study where we performed EDA to understand how consumer attributes and loan attributes influence the tendency of default.
+# Lending Club Casestudy
+> In this case study we performed EDA to understand how consumer attributes and loan attributes influence the tendency of default.
 
 
 ## Table of Contents
