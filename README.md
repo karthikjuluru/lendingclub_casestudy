@@ -29,15 +29,13 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Conclusions
-- Verified Loans also have a surprisingly high number of defaults.
-- Loan amount ranging between 0 to 15000 are also defaulted.
-- Surprisingly employees with more than 10years are defaulted.
-- Distribution of Loan Amounts taken (for Charged-Off Loans) : The distribution of loan amounts is right-skewed, with most loans concentrated in the 0 to 15000 range, peaking at 5000 to 10000. Higher loan amounts above 30000 are rare, indicating limited demand or approval for large loans.
-- Distribution of Annual Income (for Charged-Off Loans) : The distribution of annual income is again right-skewed, with most number of defaults done by individuals earning between 20000 to 70000, peaking around 40000. Individuals having higher income levels above 100000 are less likely to be defaulters.
-- Distribution of Employment Length (for Charged-Off Loans) : The chart indicates that the highest number of charged-off loans occur for individuals with 10+ years of employment. There is a relatively lower and more even distribution of charged-off loans for employment lengths from 0 to 9 years.
-- Distribution of Interest Rate (for Charged-Off Loans) : The histogram shows that charged-off loans are most frequent at interest rates between 10.73% and 15.29%.
-- Distribution of Home Ownership : This indicates that renters are at a higher risk of having charged-off loans compared to property owners and other types of ownership.
-- Distribution of Verification Status : This count plot indicates that loans that are not verified are at higher risk for charge-offs.
+- Focus on managing DTI ratios and interest rates to reduce loan defaults.
+- Monitor applicants with 10+ years of employment more closely, as they have the highest number of charged-off loans. Implement additional verification for these individuals.
+- Target interventions for high-risk groups, such as renters and those with certain loan purposes.
+- Monitor trends and update risk models regularly to reflect changing patterns in loan defaults.
+- Pay special attention to loans for "Debt consolidation," "Credit card," and "other" purposes, which have the highest number of charged-off loans. Develop specific strategies to mitigate risks for these purposes.
+- Concentrate on states like CA, NY, and FL, which have the highest number of charged-off loans. Plan risk management strategies to these regions.
+- Strengthen verification processes to reduce the higher risk of charge-offs associated with unverified loans, while still closely monitoring verified loans.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
